@@ -20,4 +20,4 @@ pada mata kuliah **Pemrograman Lanjut** Universitas Muhammadiyah Malang.
 1. Pastikan **Java JDK 17+** sudah terpasang.  
 2. Clone proyek ini:
    ```bash
-   git clone https://github.com/Irwand13/Codelab3.git
+   https://github.com/Irwand13/Codelab3..git
