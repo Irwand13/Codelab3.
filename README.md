@@ -1,4 +1,4 @@
-#  Restaurant Order App
+#  Aplikasi Order Makanan
 
 # Deskripsi
 Aplikasi pemesanan makanan sederhana berbasis Java.  
